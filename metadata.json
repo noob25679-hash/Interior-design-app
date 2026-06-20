@@ -1,0 +1,6 @@
+{
+  "name": "Studio Aeterna",
+  "description": "Boutique interior design with direct full-scale booking, native portfolio CMS, and interactive booking engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
